@@ -6,7 +6,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.0.4"
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.0.4",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.1.7"
     },
     "files": [
         "main.blocks",
